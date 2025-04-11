@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
+<img align="center" alt="" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif">
 
 #
 
